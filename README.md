@@ -12,8 +12,6 @@ For more info, please visit my [LinkedIn](https://www.linkedin.com/in/ben-xu-632
  - 🔧 Experience with Git, NodeJS, Flask, Spring Boot, Amazon S3 API, Slack API, OpenAI API, Multiple Google APIs, and more
  - 🗣 Fluency in English and Mandarin
     
-## Github Stats
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=benzuzu&show_icons=true&theme=radical)
 <!--
 **benzuzu/benzuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
